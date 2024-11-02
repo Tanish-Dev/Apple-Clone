@@ -2,9 +2,10 @@ function redirect(){
     window.location.href = "https://www.apple.com/";
 }
 
+
 function store()
 {
-    
+
     let output1 = `<div class="show">
     <div style= "padding-top:26px" class="section2">
         <div class="sec1">
